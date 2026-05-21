@@ -25,7 +25,7 @@ A simple calculator made using HTML, CSS, and JavaScript.
 ├── script.js  
 
 ## Screenshot
-(Add screenshot here if you want)
+ see the screenshot add in file 
 
 ## Author
 Aashutosh Kumar
