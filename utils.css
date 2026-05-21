@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+}
+.box{
+margin: auto;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+       width: 278px;
+ 
+}
+.input{
+   width: 270px;
+   margin: 0;
+   padding: 20px 10px;
+   border: 2px solid black;
+   border-radius: 7px;
+   font-size: large;
+}
